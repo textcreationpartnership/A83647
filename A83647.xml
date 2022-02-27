@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of the Commons assembled in Parliament, in maintenance of their accusation, against William Laud Archbishop of Canterbury, whereby he stands charged with high treason. Also, further articles of impeachment by the Commons in Parliament, against the said Archbishop of Canterbury, of high treason, and divers high crimes and misdemeanors. Die Mercurii, 17 Jan. 1643. Ordered by the Lords assembled in Parliament, that these articles and impeachment, be forthwith printed and published. John Brown Cler. Parliamentor.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83647</idno>
+            <idno type="STC">Wing E2527</idno>
+            <idno type="STC">Thomason E29_15</idno>
+            <idno type="STC">ESTC R8429</idno>
+            <idno type="EEBO-CITATION">99873308</idno>
+            <idno type="PROQUEST">99873308</idno>
+            <idno type="VID">125774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125774)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E29[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of the Commons assembled in Parliament, in maintenance of their accusation, against William Laud Archbishop of Canterbury, whereby he stands charged with high treason. Also, further articles of impeachment by the Commons in Parliament, against the said Archbishop of Canterbury, of high treason, and divers high crimes and misdemeanors. Die Mercurii, 17 Jan. 1643. Ordered by the Lords assembled in Parliament, that these articles and impeachment, be forthwith printed and published. John Brown Cler. Parliamentor.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Jan. 19. Printed for John Wright, in the Old-bailey,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laud, William, 1573-1645.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125774:1" rendition="simple:additions"/>
+            <p>ARTICLES OF THE COMMONS ASSEMBLED IN PARLIAMENT, IN Maintenance of their Accuſation, againſt WILLIAM LAUD Archbiſhop of Canterbury, whereby he ſtands charged with high Treaſon.</p>
+            <p>
+               <hi>ALSO,</hi> Further Articles of Impeachment by the Commons in Parliament, againſt the ſaid Archbiſhop of Canterbury, of high Treaſon, and divers high Crimes and miſdemeanors.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <head>Die Mercurii, 17 Jan. 1643.</head>
+                        <p>
+                           <hi>ORdered by the Lords aſsembled in Parliament, That theſe Articles and Impeachment, be forthwith Printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Brown Cler. Parliamentor.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Jan. 19. Printed for John Wright, in the Old-bailey. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125774:2"/>
+            <pb n="1" facs="tcp:125774:2"/>
+            <head>Articles of the Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, in maintenance of the Accuſation againſt <hi>William Laud</hi> Archbiſhop of <hi>Canterbury,</hi> whereby he ſtands charged with high Treaſon.</head>
+            <p n="1">
+               <hi>1.</hi> 
+               <seg rend="decorInit">T</seg>Hat he hath Traiterouſly endeavoured to ſub<g ref="char:EOLhyphen"/>vert the Fundamentall Laws, and Government of the Kingdome of <hi>England,</hi> and in ſtead there<g ref="char:EOLhyphen"/>of to introduce an Arbitrary and Tyrannicall Government againſt Law, and to that end hath wickedly and Traiterouſly adviſed his Majeſty, that he might at his owne will and pleaſure leavy and take money of his ſub<g ref="char:EOLhyphen"/>jects, without their conſent in Parliament, and this he affirm<g ref="char:EOLhyphen"/>ed, was warrantable by the Law of God.</p>
+            <p n="2">
+               <hi>2.</hi> He hath for the better accompliſhment of that his Traite<g ref="char:EOLhyphen"/>rous deſigne, adviſed and proeured divers Sermons and other diſcourſes, to be preached, Printed, and publiſhed, in which the authority of Parliaments, and the force of the Lawes of the Kingdome are denyed, and an abſolute and unlimited power over the Perſons and Eſtates of his Majeſties Subjects, is maintained and defended, not onely in the King, but alſo in himſelfe and other Biſhops, above and againſt the Law, and he hath bin a great protector, favourer, and promoter of the pub<g ref="char:EOLhyphen"/>liſhers of ſuch falſe and pernicious opinions.</p>
+            <p n="3">
+               <hi>3.</hi> He hath by Letters, Meſſages, Threats, promiſes, and di<g ref="char:EOLhyphen"/>vers other wayes to Iudges and other Miniſters of Iuſtice; interrupted and perverted, and at other times by the meanes aforeſaid, hath endeavoured to interrupt and pervert the courſe of Iuſtice, in his Majeſties Courts at <hi>Weſtminſter,</hi> and other
+<pb n="2" facs="tcp:125774:3"/>Courts, to the ſubverſion of the Lawes of this Kingdome, whereby ſundry of his Majeſties Subjects have beene ſtopt in their juſt ſuits, and deprived of their lawfull rights, and ſub<g ref="char:EOLhyphen"/>jected to his Tyrannicall will, to their utter ruine &amp; deſtruction.</p>
+            <p n="4">
+               <hi>4.</hi> That the ſaid Archbiſhop, hath Traiterouſly and corrupt<g ref="char:EOLhyphen"/>ly ſold juſtice to thoſe that have had cauſes depending before him, by colour of his Eccleſiaſticall Iuriſdiction, as Archbi<g ref="char:EOLhyphen"/>ſhop, High Commiſſioner, Refaree or otherwiſe, and hath taken unlawfull Gifts and Bribes of his Majeſties Subjects, and hath as much as in him lyeth, endeavoured to coreupt other Courts of Iuſtice, by adviſing his Majeſty to ſell places of ju<g ref="char:EOLhyphen"/>dicature and other Offices, and procuring the ſale of them con<g ref="char:EOLhyphen"/>trary to the Lawes and Statutes in that behalfe.</p>
+            <p n="5">
+               <hi>5.</hi> He hath Traiterouſly cauſed a Booke of Canons to bee compoſed and publiſhed, and theſe Canons to be put in executi<g ref="char:EOLhyphen"/>on, without any lawfull warrant and authority in that behalf; In which pretended Canons, many matters are contained, con<g ref="char:EOLhyphen"/>trary to the kings Prerogative, to the Fundamentall Lawes and Statutes of this Realme, to the right of Parliament, to the propriety and liberty of the Subjects, &amp; matters tending to ſedition, and of dangerous conſequence, &amp; to the Eſtabliſhment of a vaſt unlawfull, and preſumptuous power in himſelfe, and his Succeſſors; many of which Canons, by the practice of the ſaid Archbiſhop, were ſurreptitiouſly paſſed in the late Convo<g ref="char:EOLhyphen"/>cation, without due conſideration and debate, others by feare and compulſion were ſubſcribed to by the Prelats and Clerks there aſſembled, which had never beene voted and paſſed in the convocation as they ought to have beene, and the ſaid, Archbi<g ref="char:EOLhyphen"/>ſhop hath contrived and endeavoured, to aſſure and confirme the unlawfull and exorbitant power, which he hath uſurped and exerciſed over his Majeſties Subjects, by a wicked and ungodly Oath in one of the ſaid pretended Canons, enjoyned to be taken by all the Clergy, and many of the Laity of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p n="6">
+               <hi>6.</hi> He hath Traiterouſly aſſumed to himſelfe, a Papall and
+<pb n="3" facs="tcp:125774:3"/>Tyrannicall power, both in Eccleſiaſticall and Temporall mat<g ref="char:EOLhyphen"/>ters, over his Majeſties Subjects in this Realme of <hi>England,</hi> and in other places, to the diſherriſon of the Crowne, diſhon<g ref="char:EOLhyphen"/>our of his Majeſty, and derogation of his ſupreame Authority in Eccleſiaſticall matters.</p>
+            <p>And the ſaid Archbiſhop claimes the Kings Eccleſiaſticall Iuriſdiction, as incident to his Epiſcopall and Archi-epiſco<g ref="char:EOLhyphen"/>pall Office in this Kingdome, and doth deny the ſame to be de<g ref="char:EOLhyphen"/>rived from the crowne of <hi>England,</hi> which he hath accordingly exerciſed to the high contempt of his Royall Majeſty, and to the deſtruction of divers of the Kings Liege-people, in their per<g ref="char:EOLhyphen"/>ſons and Eſtates.</p>
+            <p n="7">
+               <hi>7.</hi> That he hath Traiterouſly endeavoured to alter and ſub<g ref="char:EOLhyphen"/>vert Gods true Religion, by Law eſtabliſhed in this Realme, and in ſtead thereof to ſet up Popiſh ſuperſtition and Idolatry: And to that end, hath declared and maintained in ſpeeches and printed, Bookes, divers Popiſh doctrines and opinions, contra<g ref="char:EOLhyphen"/>ry to the Articles of Religion eſtabliſhed. He hath urged and injoyned divers Popiſh and ſuperſtitious Ceremonies without any warrant of Law, and hath cruelly perſecuted thoſe who have oppoſed the ſame, by corporall, puniſhment and impriſon<g ref="char:EOLhyphen"/>ment, and moſt unjuſtly vexed others who refuſed to comforme thereunto, by Eccleſiaſticall Cenſures of Excommunication, Suſpenſion, Deprivation, &amp; Derogation, contrary to the Law of, this Kingdome.</p>
+            <p n="8">
+               <hi>8.</hi> That for the better advancing of his Traiterous purpoſe and deſigne, he did abuſe the great power and truſt his Maje<g ref="char:EOLhyphen"/>ſty repoſed in him, and did, intrude upon the places of divers great Offcers, and upon the right of other his Majeſties Sub<g ref="char:EOLhyphen"/>jects, wherby he did procure to himſelf nomination of ſundry perſons, to Eccleſiaſticall Dignities, Pro<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions, and Bene<g ref="char:EOLhyphen"/>fices, belonging to his Majeſty, and divers of the Nobility, Clergy, &amp; others, and hath taken upon him the commendation of Chaplaines to the King, by which meanes he hath preferred to his Majeſtie ſervice, and to other great promotions in the
+<pb n="4" facs="tcp:125774:4"/>Church, ſuch as have bin Popiſhly affected, or otherwiſe un<g ref="char:EOLhyphen"/>ſound and corrupt both in Doctrine and Manners.</p>
+            <p n="9">
+               <hi>9.</hi> He hath for the ſame Traiterous and wicked intent, cho<g ref="char:EOLhyphen"/>ſen &amp; imployed ſuch men to be his Chaplaines, whom he knew to be notoriouſly diſaffected to the reformed Religion, groſſely addicted to Popiſh ſuperſtition, and Erroneous and unſound both in judgement and practiſe, and to them or ſome of them, he hath committed the Lycenſing of Bookes to be printed, by which meanes, divers falſe and Superſtitious Bookes have beene publiſhed, to the great ſcandall of Religion, and to the ſe<g ref="char:EOLhyphen"/>ducing of many of his Majeſties Subjects.</p>
+            <p n="10">
+               <hi>10.</hi> He hath Traiterouſly and wickedly endeavoured to re<g ref="char:EOLhyphen"/>concile the Church of <hi>England,</hi> with the Church of <hi>Rome,</hi> and for the effecting thereof, hath conſorted and confederated with divers popiſh Prieſts and Ieſuits, and hath kept ſecret intel<g ref="char:EOLhyphen"/>ligence with the Pope of <hi>Rome,</hi> and by himſelfe his Agents or Inſtruments treated with ſuch as have from thence received authority and inſtruction, he hath permitted and countenanted a Popiſh Hierarchie or Eccleſiaſticall Government, to be eſta<g ref="char:EOLhyphen"/>bliſhed, in this Kingdom, by al which Traiterous &amp; malicious practiſes, this Church &amp; Kingdome hath beene exceedingly endangered &amp; like to fal under the tyranny of the <hi>Roman</hi> See.</p>
+            <p n="11">
+               <hi>11.</hi> He in his owne perſon and his Suffragans, Viſiters, Surrogates, Chancellors, or other Officers, by his command, have cauſed divers learned, pious, and Orthodox Preachers of Gods Word, to be Silenced, Suſpended, Deprived, Degra<g ref="char:EOLhyphen"/>ded, Excommunicated, or otherwiſe grieved and vexed with<g ref="char:EOLhyphen"/>out any juſt and lawfull cauſe, whereby, and by divers other meanes he hath hindred the preaching of Gods Word, cauſed divers of his Majeſties loyall Subjects to forſake the King<g ref="char:EOLhyphen"/>dome, and increaſed and cheriſhed ignorance &amp; prophaneneſſe amongſt the people, that ſo he might the better facilitate the way to the effecting of his owne wicked and Traiterous de<g ref="char:EOLhyphen"/>ſigne of altering and corrupting the true Religion here eſta<g ref="char:EOLhyphen"/>bliſhed.</p>
+            <pb n="5" facs="tcp:125774:4"/>
+            <p n="12">
+               <hi>12.</hi> He hath Traiterouſly endeavoured to cauſe diviſion and diſcord betweene the Church of <hi>England</hi> and other Reformed Churches, and to that end hath ſuppreſt and abrogated the pri<g ref="char:EOLhyphen"/>viledges &amp; immunities which have beene by His Majeſty and His Royall Anceſtors granted to the French and Dutch Chur<g ref="char:EOLhyphen"/>ches in this Kingdome, and divers other wayes hath expreſſed his malice and diſaffection to thoſe Churches, that ſo by ſuch diſunion, the Papiſts might have more advantage for the over<g ref="char:EOLhyphen"/>throw and extirpation of both.</p>
+            <p n="13">
+               <hi>13.</hi> He hath maliciouſly and Traiterouſly plotted and endea<g ref="char:EOLhyphen"/>voured to ſtir up war and enmity betwixt His Majeſties two Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> and to that purpoſe hath laboured to introduce into the Kingdome of <hi>Scotland,</hi> diverſe innovations both in Religion and Government, all or the moſt part tending to Popery and Superſtition, to the great grie<g ref="char:EOLhyphen"/>vance and diſcontent of His Majeſties Subjects of that Na<g ref="char:EOLhyphen"/>tion, and for their refuſing to ſubmit to ſuch innovations, he did Traiterouſly adviſe His Majeſty to ſubdue them by force of Armes, and by his owne Authority and Power contrary to law, did procure ſundry of His Majeſties Subjects, and enfor<g ref="char:EOLhyphen"/>ced the Clergie of this Kingdome to contribute towards the maintenance of that war, and when his Majeſty with much wiſdome and juſtice had made a pacification betwixt the two Kingdomes, the ſaid Arch-Biſhop by his councell and endea<g ref="char:EOLhyphen"/>vours did preſumptuouſly cenſure that pacification as diſho<g ref="char:EOLhyphen"/>nourable to His Majeſty, and incenſe His Majeſty againſt his ſaid Subjects of <hi>Scotland,</hi> that he did thereupon by advice of the ſaid Arch-Biſhop enter into an offenſive warre againſt them, to the great hazard of His Majeſties Perſon, and Sub<g ref="char:EOLhyphen"/>jects of both Kingdomes.</p>
+            <p n="14">
+               <hi>14.</hi> That to preſerve himſelfe from being queſtioned for theſe and other his Traiterous courſes, he hath laboured to ſubvert the rights of Parliaments, and the Ancient courſe of Parliamentary proceedings, and by falſe and malicious ſlan<g ref="char:EOLhyphen"/>ders to incenſe His Majeſty againſt Parliaments.</p>
+            <pb n="6" facs="tcp:125774:5"/>
+            <p>By which words, Councells, and Actions, he hath Traite<g ref="char:EOLhyphen"/>rouſly and contrary to his Allegiance, laboured to alienate the hearts of the Kings Liege people from His Majeſty, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſet a diviſion betweene them, and to ruine and deſtroy His Majeſties Kingdomes, for which they doe impeach him of high Treaſon, againſt Our Soveraigne Lord the King, His Crowne and Dignity.</p>
+            <p>
+               <hi>The ſaid Commons doe further averre, That the ſaid <hi>William,</hi> Archbiſhop of <hi>Canterbury,</hi> during the time in which the Treaſons and Offences aforementioned were committed, hath beene a Bi<g ref="char:EOLhyphen"/>ſhop or Archbiſhop in this Realme of <hi>England,</hi> one of the Kings Commiſſioners for Eccleſiaſticall matters, and of his Majeſties moſt Honourable Privie Councell, and that he hath taken an Oath for his faithfull diſcharge of the ſaid Office of a Councell<g ref="char:EOLhyphen"/>our, and hath likewiſe taken the Oath of Supremacy and Allegi<g ref="char:EOLhyphen"/>ance. And the ſaid Commons by Proteſtation, ſaving to them<g ref="char:EOLhyphen"/>ſelves the liberty of Exhibiting at any time hereafter, any other Accuſation or Impeachment againſt the ſaid Archbiſhop, and alſo of replying to the anſwers that the ſaid Archbiſhop ſhall make unto the ſaid Articles, or to any of them, and of offering further proofe alſo of the premiſes, or any of them, as the caſe ſhall according to the courſe of Parliaments require, do pray, that the ſaid Archbiſhop may be put to anſwer to all and every the premiſes, and that ſuch proceedings, Examination, Tryall, and Judgement, may be upon every of them, had, and uſed, as is agree<g ref="char:EOLhyphen"/>able to Law and Juſtice.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:125774:5"/>
+            <head>Further Articles of Impeachment by the Commons aſſembled in Parliament againſt <hi>William Laud</hi> Archbiſhop of Canterbury, of high Trea<g ref="char:EOLhyphen"/>ſon and divers high crimes and miſde<g ref="char:EOLhyphen"/>meanours, as followeth.</head>
+            <p n="1">
+               <hi>1.</hi> THat the ſaid Archbiſhop of Canterbury to intro<g ref="char:EOLhyphen"/>duce an Arbitrary government within this Realme, and to deſtroy Parliaments in the third and fourth yeares of his Maieſties reigne that now is, a Parliament being then called, &amp; ſitting at <hi>Weſtminſter,</hi> trayterouſly and maliciouſly cauſed the ſaid Parlia<g ref="char:EOLhyphen"/>ment to be diſſolved, to the great grievance of his Ma<g ref="char:EOLhyphen"/>ieſties ſubiects, and preiudice of this Commonwealth: And ſoone after the diſſolution thereof, gave divers Propoſitions under his hand, to <hi>George</hi> then Buke of <hi>Buckingham,</hi> caſting therein many falſe aſperſions upon the ſaid Parliament, calling it a factious Par<g ref="char:EOLhyphen"/>liament, and falſly affirming that it had caſt many ſcan<g ref="char:EOLhyphen"/>dals upon his Maieſty, and had uſed him like a childe in his minority, ſtiling them Puritans, and commen<g ref="char:EOLhyphen"/>ding the Papiſts for harmleſſe and peaceable ſubiects.</p>
+            <p n="2">
+               <hi>2.</hi> That within the ſpace of ten yeares laſt paſt, the ſaid Archbiſhop hath treacherouſly endeavoured to ſubvert the fundamentall Lawes of this Realme, and
+<pb n="8" facs="tcp:125774:6"/>to that end hath in like manner endeavoured to ad<g ref="char:EOLhyphen"/>vance the power of the Councell Table, the Canons of the Church, and the Kings Prerogative, above the Lawes and Statutes of the Realme. And for mani<g ref="char:EOLhyphen"/>feſtation thereof, about ſix yeares laſt paſt, being then a Privy Councellor to his Maieſty, and ſitting at the Councell Table, he ſaid, that as long as he ſate there they ſhould know that an Order of that Board ſhould be of equal force with a law or Act of Parliam. And at another time uſed theſe words, That he hoped ere long that the Canons of the Church, and the Kings Pre<g ref="char:EOLhyphen"/>rogative, ſhould bee of as great power as an Act of Parliament. And at another time ſaid, that thoſe that would not yeeld to the Kings power, hee would cruſh them to peeces.</p>
+            <p n="3">
+               <hi>3.</hi> That the ſaid Archbiſhop, to advance the Canons of the Church, and power Eccleſiaſticall above the law of the Land, and to pervert and hinder the courſe of Iuſtice, hath at divers times within the ſaid time, by his Letters and other undue meanes and ſollicita<g ref="char:EOLhyphen"/>tions uſed to Iudges, oppoſed and ſtopped the gran<g ref="char:EOLhyphen"/>ting of his Maieſties Writs of Prohibition, where the ſame ought to have beene granted for ſtay of proceed<g ref="char:EOLhyphen"/>ings in the Eccleſiaſticall Court, whereby iuſtice hath beene delayed and hindred, and the Iudges diverted from doing their duties.</p>
+            <p n="4">
+               <hi>4.</hi> That for the end and purpoſe aforeſaid, about ſeven yeares laſt paſt, a Iudgement being given in his Maieſties Court of Kings Bench, againſt one <hi>Burley</hi> a Parſon, being a man of bad life and converſation, in an information u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on the Statute of <hi>21. Hen. 8.</hi> for wilfull Non-reſidency, the ſaid Archbiſhop by ſollici<g ref="char:EOLhyphen"/>tations and other undue meanes uſed to the Iudges
+<pb n="9" facs="tcp:125774:6"/>of that Court, cauſed Execution upon the ſaid Iudg<g ref="char:EOLhyphen"/>ment to be ſtayed: And being moved therein, and made acquainted with the bad life and converſation of the ſaid parſon, he ſaid, that he had ſpoken to the Iudges for him, and that he would never ſuffer a Iudgement to paſſe againſt a Clergy-man by <hi>nihil dicit.</hi>
+            </p>
+            <p n="5">
+               <hi>5.</hi> That the ſaid Archbiſhop about eight yeares laſt paſt being then alſo a privy Counſell or to his Ma<g ref="char:EOLhyphen"/>ieſty, for the end and purpoſe aforeſaid, cauſed Sir <hi>John Corbet</hi> of Stoake in the County of Salop Baro<g ref="char:EOLhyphen"/>net, then a Iuſtice of peace of the ſaid County, to bee committed to the priſon of the Fleet, where he conti<g ref="char:EOLhyphen"/>nued priſoner for the ſpace of halfe a yeare, or more, for no other cauſe, but for calling for the <hi>Petition of Right,</hi> and cauſing it to be read at the Seſſions of the peace for that County, upon a iuſt and neceſſary occa<g ref="char:EOLhyphen"/>ſion. And during the time of his ſaid impriſonment the ſaid Archbiſhop, without any colour of right, by a writing under the Seale of his Archbiſhopricke, gran<g ref="char:EOLhyphen"/>ted away parcell of the Glebe land of the Church of <hi>Adderley</hi> in the ſaid County, whereof the ſaid Sir <hi>John Corbet</hi> was then patron, unto <hi>Robert</hi> Viſcouns <hi>Kilmurrey,</hi> without the conſent of the ſaid Sir <hi>John,</hi> or the then Incumbent of the ſaid Church, which ſaid Viſcount <hi>Kilmurrey</hi> built a Chappell upon the ſaid parcell of Gleve land, to the great preiudice of the ſaid ſir <hi>John Corbet,</hi> which dath cauſed great ſuits and diſſentions betweene them. And whereas the ſaid Sir <hi>John Corbet</hi> had a Iudgement againſt Sir <hi>James Stonehouſe</hi> Knight, in an action of Waſte, in his Ma<g ref="char:EOLhyphen"/>ieſties Court of <hi>Common Pleas</hi> at Weſtminſter, which was after wards affirmed in a Writ of Error in the <hi>Kings Bench,</hi> and Execution thereupon awarded: yet
+<pb n="10" facs="tcp:125774:7"/>the ſaid Sir <hi>John,</hi> by meanes of the ſaid Archbiſhop could not have the effect thereof, but was committed to priſon by the caid Archbiſhop and others at the Councell Table, untill he had ſubmitted himſelfe unto the Order of the ſaid Table, whereby he loſt the bene<g ref="char:EOLhyphen"/>fit of the ſaid Iudgement and Execution.</p>
+            <p n="6">
+               <hi>6.</hi> That whereas divers gifts and diſpoſitions of divers ſummes of money were heretofore made by di<g ref="char:EOLhyphen"/>vers charitable and well diſpoſed perſons, for the buy<g ref="char:EOLhyphen"/>ing in of divers Impropriatrons for the maintenance of preaching the word of God in ſeverall Churches, the ſaid Archbiſhop about eight yeares laſt paſt, wilfully and maliciouſly cauſed the ſaid gifts, feoffements, and conveyances made to the uſes aforeſaid, to bee over<g ref="char:EOLhyphen"/>throwne in his Maieſties Court of Exchequer, con<g ref="char:EOLhyphen"/>trary to Law, as things dangerous to the Church and State, under the ſpecious pretence of buying in Appropriations, whereby that pious worke was ſup<g ref="char:EOLhyphen"/>preſſed and trodden downe, to the great diſhonour of God, and ſcandall of Religion.</p>
+            <p n="7">
+               <hi>7.</hi> That the ſaid Archbiſhop at ſeverall times, within theſe ten yeeres laſt paſt, at <hi>Weſtminſter</hi> and elſewhere within this Realme, contrary to the known Laws of this Land, hath endeavoured to ad<g ref="char:EOLhyphen"/>vance Popery and Superſtition within the Realm: And for that end and purpoſe hath wittingly and willingly received, harboured and relieved divers Po<g ref="char:EOLhyphen"/>piſh Prieſts and Ieſuits, namely one called <hi>Sancta Cla<g ref="char:EOLhyphen"/>ra,</hi> alias <hi>Damport,</hi> a dangerous Perſon, and Franciſ<g ref="char:EOLhyphen"/>can Fryer, who having written a Popiſh and ſeditious Booke, intituled <hi>Deus natura gratia,</hi> wherin the thirty nine Articles of the Church of <hi>England,</hi> eſtabliſhed by Act of <hi>Parliament,</hi> were much traduced and ſcandali<g ref="char:EOLhyphen"/>zed:
+<pb n="11" facs="tcp:125774:7"/>The ſaid Archbiſhop had divers conferences with him, while hee was in writing the ſaid Book; and did alſo provide maintenance and entertainment for one Mounſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er <hi>St. Giles</hi> a Popiſh Prieſt at <hi>Oxford</hi> knowing him to be a Popiſh Prieſt.</p>
+            <p>That the ſaid Archbiſhop about foure yeers laſt paſt at <hi>Weſtminſter</hi> aforeſaid; ſaid, that there muſt be a blow given to the Church, ſuch as hath not bin yet gi<g ref="char:EOLhyphen"/>uen, before it could bee brought to conformity; decla<g ref="char:EOLhyphen"/>ring thereby his intention to be, to ſhake and after the true Proteſtant Religion eſtabliſhed in the Church of <hi>England.</hi>
+            </p>
+            <p n="9">
+               <hi>9.</hi> That in, or about the month of <hi>May, 1641.</hi> pre<g ref="char:EOLhyphen"/>ſently after the diſſolution of the laſt <hi>Parliament,</hi> the ſaid Archbiſhop for the ends and purpoſes aforeſaid, cauſed a Synod or Convocation of the Clergy to bee held for the ſeuer all Provinces of <hi>Canterbury</hi> and <hi>York;</hi> wherein were made and eſtabliſhed by his meanes and procurement, divers Canons and Conſtitntions Ec<g ref="char:EOLhyphen"/>cleſiaſticall; contrary to the Laws of this Realme, the Rights and Priviledges or <hi>Parliament,</hi> the Liberty and property of the Subiect, tending alſo to ſedition, and of dangerous conſequence: And amongſt other things, the ſaid Archbiſhop cauſed a moſt dangerous and ille<g ref="char:EOLhyphen"/>gail Oath to be therein made and contrived, the tenor whereof followeth in theſe words. <hi>That I</hi> A. B. <hi>doe ſweare that I doe approve the Doctrine and Diſcipline or Government eſtabliſhed in the Church of <hi>England;</hi> as con<g ref="char:EOLhyphen"/>taining all things acceſſary to Salvation; And that I will not endeavour by my ſelfe or any other, directly or indi<g ref="char:EOLhyphen"/>rectly to bring in any Popiſh Doctrine, contrary to that which Is ſo eſtabliſhed: Nor will I ever give my conſent to alter the Government of this Church by Archbiſhops, Bi<g ref="char:EOLhyphen"/>ſhops,
+<pb n="12" facs="tcp:125774:8"/>Deanes, and Arch-Deacons, &amp;c. as it ſtands now eſta<g ref="char:EOLhyphen"/>bliſhed, and as by right it ought to ſtand: Nor yet ever to ſubject it to the uſurpations and ſuperſtitions of the Sea of Rome. And all theſe things I doe plainly and ſincerely ac<g ref="char:EOLhyphen"/>knowledge and ſweare, according to the plain and common ſence, and underſtanding of the ſame words, without any equivocation or mentall evaſion, or ſecret reſervation what<g ref="char:EOLhyphen"/>ſoever. And this I doe heartily, willingly and truly, upon the faith of a Chriſtian: So help me God in Ieſus Chriſt.</hi> Which Oath the ſaid Archbiſhop himſelf did take, and cauſed divers other Miniſters of the Church to take the ſame, upon paine of ſuſpenſion and deprivation of their Lviings, and other ſevere penalties: And did alſo cauſe <hi>Godfrey,</hi> then Biſhop of <hi>Glouceſter,</hi> to bee committed to priſon for refuſing to Subſcribe to the ſaid Canons, and to take the ſaid Oath: And afterward the ſaid Biſhop ſubmitting himſelfe to take the ſaid Oath, he was ſet at liberty.</p>
+            <p n="10">
+               <hi>10.</hi> That a little before the calling of the laſt <hi>Parlia<g ref="char:EOLhyphen"/>ment, anno 1640.</hi> a Vote being then paſſed, and a reſo<g ref="char:EOLhyphen"/>lution taken at the Councell Table by the advice of the ſaid Archbiſhop, for aſſiſting of the King in extraordi<g ref="char:EOLhyphen"/>nary wayes if the ſaid <hi>Parliament</hi> ſhould prove peeviſh, and refuſe to ſupply his Maieſty: The ſayd Archbi<g ref="char:EOLhyphen"/>ſhop wickedly and malitiouſly adviſed his Maieſty to diſſolve the ſaid Parliament, and accordingly the ſame was diſſolved: And preſently after the ſaid Archbiſhop told his Maieſty, that now he was abſolved from all rules of Government, and left free to uſe extraordina<g ref="char:EOLhyphen"/>ry wayes for his ſupply.</p>
+            <pb n="13" facs="tcp:125774:8"/>
+            <p>For all which matters and things the ſaid Commons aſſembled in Parliament in the name of the <gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>es and of all the Com<g ref="char:EOLhyphen"/>mons of England, doe impeach the ſaid Archbiſhop of <hi>Canterbury</hi> of high Treaſon, and other crimes and miſdemeanours tending to the ſubverſion of our Religion, Lawes, and Liberties, and to the utter ruine of this Church and Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>And the ſaid Commons by proteſtation ſaving to themſelves the libertie of exhibit<g ref="char:EOLhyphen"/>ing at any time hereafter, any further or o<g ref="char:EOLhyphen"/>ther Accuſation or Impeachment againſt the ſaid <hi>William Laud</hi> Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> and alſo of replying to the anſwer that he ſhall make unto the ſaid articles, or any of them: Or of offering proofe of the premiſſes, or any other Impeachment or accuſations that ſhal be exhibited by them as the cauſe ſhall (according to the courſe of Parliaments) require; Doe pray that hee the ſaid <hi>William Laud</hi> Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> may be called to anſwer the ſaid ſeve<g ref="char:EOLhyphen"/>ral crimes and miſdemeanours, and receive
+<pb n="14" facs="tcp:125774:9"/>ſuch condigne puniſhment as the ſame ſhall deſerve and that ſuch further proceedings may be upon everie of them had, and uſed againſt him as is agreeable to Law and Iuſtice.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
